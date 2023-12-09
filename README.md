@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jannat-jui&theme=java-dark&border_radius=1.6&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
 <!--
 **jannat-jui/jannat-jui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
