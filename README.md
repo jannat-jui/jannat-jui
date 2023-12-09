@@ -2,6 +2,20 @@
 <img src="https://raw.githubusercontent.com/jannat-jui/jannat-jui/main/images/banner.png" />
 </a>
 
+
+## 👋 Hello,
+
+I'm Passionate about web development and on a journey to become a successful MERN stack developer. I've completed several projects, each contributing to my growth.
+
+### 💻 Tech Stack
+- 🌐 Frontend: HTML, CSS, JavaScript, React
+- 🚀 Backend: Node.js, Express
+- 🛢️ Database: MongoDB
+
+### 🌱 Current Focus
+Continuously expanding my skills in the MERN stack, diving into the intricacies of building scalable and efficient web applications.
+
+
 ## :chart_with_upwards_trend: Current Stats
 <br/>
 
