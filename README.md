@@ -29,16 +29,12 @@ Continuously expanding my skills in the MERN stack, diving into the intricacies 
 <br/>
 
 <p align="center">
-  <a href="https://www.instagram.com/arthurspk/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
-  </a>
+  
   <a href="https://bd.linkedin.com/in/jannat-ara-haque-jui-a0a552217" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/arthurspk" alt="Linkedin Badge" />
   </a>
-  <a href="https://www.youtube.com/channel/UCzmXzz_VR0Li8-YOvWN_t3g" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" />
-  </a>
-  <a href="https://discord.gg/NbMQUPjHz7" style="text-decoration:none;">
+  
+  <a href="https://discord.com/users/jannat_jui" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
   <a href="https://t.me/arthurguiadev" style="text-decoration:none;">
@@ -82,22 +78,3 @@ Continuously expanding my skills in the MERN stack, diving into the intricacies 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jannat-jui&theme=omni" alt="GitHub Profile Details" style="width: 100%; height: 100%; object-fit: cover;" />
 </p>
-
-
-
-
-
-<!--
-**jannat-jui/jannat-jui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
