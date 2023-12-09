@@ -1,4 +1,6 @@
-### Hi there 👋
+<a href="https://bd.linkedin.com/in/jannat-ara-haque-jui-a0a552217">
+<img src="https://raw.githubusercontent.com/jannat-jui/jannat-jui/main/images/banner.png" />
+</a>
 
 ## :chart_with_upwards_trend: Current Stats
 <br/>
