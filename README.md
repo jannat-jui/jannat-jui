@@ -37,7 +37,7 @@ Continuously expanding my skills in the MERN stack, diving into the intricacies 
   <a href="https://discord.com/users/jannat_jui" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge" />
   </a>
-  <a href="https://t.me/arthurguiadev" style="text-decoration:none;">
+  <a href="https://t.me/contact/1702110991:QL2Pum43qw9A6i6j" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
   </a>
 </p>
